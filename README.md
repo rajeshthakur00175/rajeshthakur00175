@@ -3,6 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=rajeshthakur00175&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rajeshthakur00175?label=Followers&style=for-the-badge" alt="Followers" />
 </p>
+
 ## 🚀 SDET | Automation Architect | Quality Engineering Leader
 
 Software Development Engineer in Test (SDET) with **15+ years of experience** in designing, developing, and scaling enterprise-grade automation frameworks for Web, API, Mobile, and Cloud applications.
@@ -19,6 +20,13 @@ Passionate about delivering high-quality software through modern automation prac
 * 🚀 Strong background in CI/CD, DevOps, and Test Architecture
 * 👥 Mentor and advocate for Quality Engineering best practices
 * ⚡ Focused on scalable, maintainable, and reliable test automation
+
+---
+## 🔗 GitHub Accounts
+
+[![Primary GitHub](https://img.shields.io/badge/Primary-GitHub-black?logo=github)](https://github.com/rajeshthakur00175)
+
+[![Backup GitHub](https://img.shields.io/badge/Backup-GitHub-black?logo=github)](https://github.com/rajesh00175)
 
 ---
 
